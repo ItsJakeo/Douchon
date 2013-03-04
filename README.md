@@ -11,3 +11,4 @@ node douchon.js
 
 Applaude for satisfaction ;)
    
+Autobop is also on a sleep timer so it's not as noticeable.  
